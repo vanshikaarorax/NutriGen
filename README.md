@@ -99,3 +99,8 @@ Create a `.env` file in the root:
 OPENAI_API_KEY=your_openai_key
 SUPABASE_URL=your_supabase_project_url
 SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
+
+<img width="1280" height="800" alt="demo1" src="https://github.com/user-attachments/assets/6935b4ca-2a23-4dba-aba3-ec47c4f2f3f8" />
+
+<img width="1280" height="800" alt="dem2" src="https://github.com/user-attachments/assets/ea3547ce-a077-4899-98b7-c74ae67991b6" />
+<img width="1280" height="800" alt="dem3" src="https://github.com/user-attachments/assets/aadd8164-941e-4ada-8cf0-b2ee9cabf52d" />
